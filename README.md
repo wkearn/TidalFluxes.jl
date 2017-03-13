@@ -8,3 +8,4 @@ The following packages exist under the umbrella of TidalFluxes.jl
 
 - [TidalDischargeModels.jl](https://github.com/wkearn/TidalDischargeModels.jl) -- stage-discharge models let you estimate discharge from water level
 - [TidalFluxPlots.jl](https://github.com/wkearn/TidalFluxPlots.jl) -- Plots.jl recipes for tidal flux data
+- [TidalFluxExampleData.jl](https://github.com/wkearn/TidalFluxExampleData.jl) -- Example data for testing
