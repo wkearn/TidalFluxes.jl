@@ -1,3 +1,5 @@
+![](assets/logo-large.svg)
+
 # TidalFluxes.jl
 
 TidalFluxes.jl is a suite of Julia packages used for studying the transport and transformation of material in tidal environments (especially salt marshes).
