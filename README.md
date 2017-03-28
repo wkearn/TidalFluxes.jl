@@ -1,3 +1,5 @@
+![TidalFluxes.jl Logo](assets/logo.svg)
+
 [TidalFluxes.jl](https://github.com/wkearn/TidalFluxes.jl) is a suite of [Julia](https://julialang.org) packages designed to compute and model the fluxes of material and energy through tidal channels, particularly in salt marshes.
 
 # The Suite
