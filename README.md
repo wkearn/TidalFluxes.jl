@@ -1,4 +1,4 @@
-![](assets/logo-large.svg)
+![](http://wskearney.com/assets/logo-large.svg)
 
 # TidalFluxes.jl
 
