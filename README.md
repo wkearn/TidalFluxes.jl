@@ -6,7 +6,7 @@
 
 The following packages exist under the umbrella of TidalFluxes.jl
 
-- [DischargeData.jl](https://github.com/wkearn/DischargeData.jl) -- A lightweight package providing a `Discharge` data type for use elsewhere
+- [DischargeData.jl](https://github.com/wkearn/DischargeData.jl) -- A lightweight package providing a time series data types for use elsewhere
 - [PIEMetData.jl](https://github.com/wkearn/PIEMetData.jl) -- Process PIE meteorological data. Needed to atmospherically correct ADCP pressures
 - [ADCPDataProcessing.jl](https://github.com/wkearn/ADCPDataProcessing.jl) -- Take raw ADCP data and turn it into discharge estimates
 - [TidalFluxCalibrations.jl](https://github.com/wkearn/TidalFluxCalibrations.jl) -- Calibrate your discharge or concentration estimates
